@@ -8,6 +8,7 @@ Small, one-off projects.
   * [bbbingo.me](https://bbbingo.me)
   * [furaff.net](https://furaff.net)
   * [polycul.es](https://polycul.es) (database included as sqlite3 file)
+  * [makyo.io](https://makyo.io)/[jnsq.us](https://jnsq.us) (database included as a sqlite3 file)
 * Databases
   * mongo
 
@@ -16,8 +17,8 @@ Small, one-off projects.
 Furry data projects
 
 * Web applications (nginx)
-  * [explore621](https://explore621.net)
-  * [wixxx](https://wixxx.me)
+  * [explore621.net](https://explore621.net)
+  * [wixxx.me](https://wixxx.me)
 * Databases
   * postgres
   
