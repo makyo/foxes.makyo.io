@@ -5,7 +5,11 @@ All of my servers are named after species of foxes, each of which lives within t
 Small, one-off projects.
 
 * Web applications (nginx)
+  * [bbbingo.me](https://bbbingo.me)
+  * [furaff.net](https://furaff.net)
   * [polycul.es](https://polycul.es) (database included as sqlite3 file)
+* Databases
+  * mongo
 
 ## [Vulpes cana](http://cana.makyo.io) --- Ubuntu 18.04 | Linode 4096 | Dallas, TX
 
@@ -74,9 +78,7 @@ Alopex is a legacy server running Debian stretch. It used to be my only server, 
   * log files
 * Web applications (apache2)
   * [\[adjective\]\[species\] surveys](https://survey.adjectivespecies.com)
-  * [bbbingo](https://bbbingo.me)
   * [charref](https://characters.openfurry.org)
-  * [FurAffinity shorturls](http://furaff.net)
   * [The Furry Poll](https://furrypoll.com)
   * [Honeycomb development](https://alopex.honeycomb.cafe)
   * A few one-off demonstrations I should probably just delete.
