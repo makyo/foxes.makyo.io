@@ -22,9 +22,14 @@ Furry data projects
 * Databases
   * postgres
   
-## Vulpes chama
+## Vulpes chama --- Ubuntu 18.04 | Droplet 2 core/4GB/80GB | San Francisco, CA
 
-*not used*
+Mail server (in progress)
+
+* arcane.cafe
+* drab-makyo.com
+* adjectivespecies.com
+* hybrid.ink?
 
 ## Vulpes corsac
 
