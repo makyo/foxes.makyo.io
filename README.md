@@ -46,6 +46,7 @@ Personal stuff.
 * TinyFugue
 * Dropbox backup client
 * *soon* mail
+* Personal git repositories (dotfiles, etc)
 
 ## Vulpes macrotis
 
@@ -81,7 +82,6 @@ Alopex is a legacy server running Debian stretch. It used to be my only server, 
 
 * Git repositories
   * furry data
-  * log files
 * Web applications (apache2)
   * [\[adjective\]\[species\] surveys](https://survey.adjectivespecies.com)
   * [charref](https://characters.openfurry.org)
