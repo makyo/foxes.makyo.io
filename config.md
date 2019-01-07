@@ -4,15 +4,17 @@
 127.0.0.1       localhost.localdomain
 
 # foxes domain
-2600:3C00:0000:0000:F03C:91FF:FE94:1338 lagopus.makyo.io        lagopus
+2600:3c00:0000:0000:f03c:91ff:fedf:a88c alopex.makyo.io         alopex
 2600:3C00:0000:0000:F03C:91FF:FE1F:9AEF bengalensis.makyo.io    bengalensis
 2600:3C00:0000:0000:F03C:91FF:FE21:041C cana.makyo.io           cana
-2600:3c00:0000:0000:f03c:91ff:fedf:a88c alopex.makyo.io         alopex
+2604:a880:2:d0::2183:3001               chama.makyo.io          chama
+2600:3C00:0000:0000:F03C:91FF:FE94:1338 lagopus.makyo.io        lagopus
 
-198.58.109.78   lagopus.makyo.io        lagopus
+69.164.196.98   alopex.makyo.io         alopex
 96.126.116.6    bengalensis.makyo.io    bengalensis
 45.33.124.110   cana.makyo.io           cana
-69.164.196.98   alopex.makyo.io         alopex
+142.93.28.107   chama.makyo.io          chama
+198.58.109.78   lagopus.makyo.io        lagopus
 
 # The following lines are desirable for IPv6 capable hosts
 ::1     localhost ip6-localhost ip6-loopback
@@ -27,6 +29,8 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDvgjbO06Kpt5ZelaxQn+mJBaM9xUiKF2Mgc7fQ6pqE
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC710s/5q7xFP6oyRCyFozbwE9SuAl9C9qZw1gueFRsDWIprVMho1gGL/3UbSvh8ELQNsCdUmcNUGFEoLUedcMGphiRju0MMl0/J9CW1OzuSzzAW6ai277cEoszEvk17nrbnplyF2hFZDeJICp/Iu33ePaKcTzWc4xrBocbgx0sj1qIJ2syiEtYPC6GPuLh/xWnfeTGfr9P9SPRoNA1+mc25xlvneipzh7rP0Hx+3i/v4IFJZxEExRwbH7qxcljQmH2t7+SjHt40EES1Wn4nLWgslmNJ63FIniH5HuWLsJr6tGHyN9sShk8/DA3ccSIUdBqmegUnfAXV5zk9ujYddVj makyo@lagopus
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCtGtXYuQKbSOX6g8xyBaGoQ8smWwCKfgw4dtTNE1q+/lFEB14NmVSd2iPkV3jbIHeu8i4BjVrt8jbwWvfGtZVIT/wghReZTFCwCP0lb7xRijij+PRbAllakldwlSEcfA84pkFEzx0FH5zGgepTqAXYXvJIkHO4rQ0Nlt77ZIVxwq9vnXQtpMjw4aGfGYQ6vMldR+4S+/YpHujK+zYPZ1dcivNhU/6s8QXxBkLahWSHH6U+UlmvhA3LtGQd3QOOrdeoYgo4RsrXfNEqFiO7pLMnxGi/x3lXKQVHuL+lid2+k6Vs/tu3vA+Tod1FC54kYdEoRLuA3Uf1J94+GmKTuLSD makyo@bengalensis
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCuOxIfGyS26/HnlyOIydlRCeGBa1A6iGn2ld9M6qfv8zmS+JJiPY7tT0WIOXtZpsd+QY1IIrOcvUrhbZUDPxbmo9AXBbUteecyEMzXYwaT11S+uW+4DqpgxJWErinb20ZidTv6N57TDXwfvkXiUBTNUA+DDqfx+3FrabyzJlYZQfixDN7fyhNeFbgb7BHaoMMDHkQaIIdeCCIWMqEiVkpryyYivqlKJdIbXaBx9XnQhhIgpxXpuHl7uwzXSNr58ozcKAXPJui7aTwpemz/9Si5jwFKlN9vSTWZOe4q7rYkH7TaRJytgrzvXzHxFiIwo2rI4IUtPmG6y/QxFe1h5gpv makyo@cana
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDSclkiqZoszKz88hOMzICcvSHyKZKhtvAOYCsnQPb95TO3Yl/nkPfuzrUTFwTBYFndvPU7aPZhiT1RY2+BqiJ7lrUFyuthf4TF5EqR3P913WEdXdchBVeh9YLugbMYdOUjWKPiRTJarO6lKMmgUx9rOxFwCwFaATHCALvShDZziNbPZx7hfw8hyXkp8hRqTUhPwXbzds2339RywK4oIHxsrc1epf+9JHdU2oZTyLRNnHoVvhKVcp5JiZAEFyNJyZsngTPtwc372y3+rh3Qop9iAqVjP3/PLcL5BQ0QiLy21UwpF0vjXeKzLJrTLEC/ifHRkzvYnCrL1JiBHVwZTl03 makyo@chama
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC710s/5q7xFP6oyRCyFozbwE9SuAl9C9qZw1gueFRsDWIprVMho1gGL/3UbSvh8ELQNsCdUmcNUGFEoLUedcMGphiRju0MMl0/J9CW1OzuSzzAW6ai277cEoszEvk17nrbnplyF2hFZDeJICp/Iu33ePaKcTzWc4xrBocbgx0sj1qIJ2syiEtYPC6GPuLh/xWnfeTGfr9P9SPRoNA1+mc25xlvneipzh7rP0Hx+3i/v4IFJZxEExRwbH7qxcljQmH2t7+SjHt40EES1Wn4nLWgslmNJ63FIniH5HuWLsJr6tGHyN9sShk8/DA3ccSIUdBqmegUnfAXV5zk9ujYddVj makyo@lagopus
 
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC1Y4ja9Bd+gF7hYViVABT5osYgZvAFO2eMDQ4Jujb/Cdo1ke3JWw+NMTAEduWqE/Vyhcm9F7QhnK/q20MZw2eOy9DN3xg1hnqBg3am4WecvQps2LNPGcrHFCNOLXjMd74vgep4MO5lRfCmnhB6o6NiEzEzK5NV1qD5Gir3dCcbyFOsUG8fpvBGnJXW0kQl2v9H7I7gwUG0A/t0kTPxzp86jQOwDzo9f0EyNDRgGFZHBQ2p/mfA2KWaTIiJzxvhW3NiFTitfOVLX2+zhVraP00mH7uznr9IR4dNKMKYtWgaaLYgvQnwdfno8o7yAeU6yz3bl454ej+8fELlQdAreaIhyjlBnxPPxqRfW1vA8hQLfz9LaN231LcpnnNIk7ftr+JjpOnqESK08fD/Ya5HzMdjhJ0Msg3//KXLH2LOaDHvvDf6sKkjj0aFq0BboaqL7MOovkjaqYu5ShjX0m1QdzG97PCXa761aQSaNRbP2tB70ceS7N0xIko00uZF39TYDwDVONi38mb0sV2JqRFkfkxNyY4fc19sRnhotOSDK3TV//OBksHQ5zBP7zpVEYmEJFvzS4Hk3lVNWYssM+gLdl9AxnwkZ0GZgPI2GMpKjM3tc3Ix6d0Sx0UzM0KDEiojoJzkxr65NieXSTCiKlrKbCHSSDxeUfDQ+PORUL8f972MuQ== makyo@kaitain
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDdFPjm9j1huZjT6585zbyTxZMb0U4AY0vy/wbvJSNp4blXgQzHe4gQm6pUMqvqznF/PikMIR53HDsc93HkA55BADj0WrqdAy3OrmoWAblZCiJYyTT27alnz8dzywZ65KPaqDug8C1hcbMVQb63Bm4ymuaBz0Dv4mKxRi3xz94VLZ/rc1sVc66SzdJ/z4LY2dH1pObi2MBhHT8bzLSH9CmfRIRcgatgakE3s/GLRtWbqEDbfvHpJQq/2sEtgpBhCqvk11liepYW7N0x58eHdxBEaTbgww4ldkTs1a0rxvcWygHfdL6J5TZrelyrr8NI7v4juE35gw/LPrTanuIlgtO9 makyo@ix
