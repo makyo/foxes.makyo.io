@@ -22,7 +22,7 @@ Furry data projects
 * Databases
   * postgres
   
-## Vulpes chama --- Ubuntu 18.04 | Droplet 2 core/4GB/80GB | San Francisco, CA
+## [Vulpes chama](http://chama.makyo.io) --- Ubuntu 18.04 | Droplet 2 core/4GB/80GB | San Francisco, CA
 
 Mail server (in progress)
 
@@ -31,9 +31,11 @@ Mail server (in progress)
 * adjectivespecies.com
 * hybrid.ink?
 
-## Vulpes corsac
+## [Vulpes corsac](http://corsac.makyo.io) --- Ubuntu 18.04 | Droplet 1 core/1GB/25GB | San Francisco, CA
 
-*not used*
+TransArt, LLC server
+
+* transart.xxx
 
 ## Vulpes ferrilata
 
